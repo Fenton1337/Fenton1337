@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D09F7&random=false&width=435&lines=Hi%2C+I'm+Fenton;I+am+a+beginner+programmer;That's+the+end+of+it)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://media1.tenor.com/m/b9GFHJUHEUYAAAAd/developer-xmooney.gif" width="833" height="598.71875" alt="Developer Xmooney GIF - Developer Xmooney Alien GIFs" style="max-width: 833px;">
 </div>
