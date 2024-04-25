@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A200F7&random=false&width=435&lines=Hi%2C+I'm+Fenton%F0%9F%91%8B;I'm+beginner+programmer!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A200F7&random=false&width=435&lines=Hi%2C+I'm+Fenton%F0%9F%91%8B;I'm+beginner+programmer!;Are+you+still+reading+that%3F;why%3F;That's+it%2C+stop+reading;OK%2C+now+everything+will+start+all+over+again)](https://git.io/typing-svg)
 
 <img src="https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif" width="833" height="467.97752808988764" alt="Programmer Programming GIF - Programmer Programming Computer GIFs" style="max-width: 500px;">
 
