@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D09F7&random=false&width=435&lines=Hi%2C+I'm+Fenton;I+am+a+beginner+programmer;That's+the+end+of+it)](https://git.io/typing-svg)
 <div align="center">
-<img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="550" height="300" alt="Hacker Hacker Man GIF - Hacker Hacker Man Hacking GIFs" style="max-width: 833px;">
+<img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="500" height="300" alt="Hacker Hacker Man GIF - Hacker Hacker Man Hacking GIFs" style="max-width: 833px;">
 </div>
 
  # 📋 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
