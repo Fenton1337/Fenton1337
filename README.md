@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif" width="833" height="467.97752808988764" alt="Programmer Programming GIF - Programmer Programming Computer GIFs" style="max-width: 500px;">
 
-<div class = head>
+
 #  📋 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 
    𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘿𝙚𝙣𝙞𝙨 𝙖𝙣𝙙 𝙞 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧. 𝙄'𝙢 15 𝙮𝙚𝙖𝙧𝙨 𝙤𝙡𝙙. 
    𝙈𝙮 𝙟𝙤𝙪𝙧𝙣𝙚𝙮 𝙞𝙣𝙩𝙤 𝙩𝙝𝙚 𝙞𝙩 𝙬𝙤𝙧𝙡𝙙 𝙗𝙚𝙜𝙖𝙣 𝙞𝙣 2022 𝙬𝙞𝙩𝙝 𝙝𝙩𝙢𝙡 𝙖𝙣𝙙 𝙘𝙨𝙨.
@@ -15,7 +15,7 @@
  · 🙍‍♂️🙍‍♂️ 𝙄 𝙡𝙞𝙠𝙚 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙞𝙣 𝙖 𝙩𝙚𝙖𝙢 
 
  · 𝙩𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙞𝙩)
- </div>
+
 
 
 
