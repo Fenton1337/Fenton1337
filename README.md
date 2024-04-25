@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fenton. I'm a beginner programmer
 
 <!--
 **Fenton1337/Fenton1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
