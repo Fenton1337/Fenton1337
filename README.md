@@ -18,7 +18,9 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,html,css,vscode,github" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,html,css,github" />
+
+#  🛠️ 𝙏𝙤𝙤𝙡𝙨  
 
 
 
