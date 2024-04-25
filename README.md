@@ -26,6 +26,9 @@
 
 #  🖥️ 𝙎𝙤𝙘𝙞𝙖𝙡 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 
 
+<img src="https://skillicons.dev/icons?i=discord,gmail" />
+
+
 
 
 
