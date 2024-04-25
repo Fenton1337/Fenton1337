@@ -24,9 +24,7 @@
 
 <img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,idea,androidstudio,visualstudio" />
 
-#  🖥️ 𝙎𝙤𝙘𝙞𝙖𝙡 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 
 
-<href="https://prettyfont.net"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 
 
