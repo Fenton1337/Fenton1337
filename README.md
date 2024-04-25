@@ -22,6 +22,8 @@
 
 #  🛠️ 𝙏𝙤𝙤𝙡𝙨  
 
+<img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,idea,androidstudio,visualstudio" />
+
 
 
 
