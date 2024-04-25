@@ -18,7 +18,7 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-<h1> ![Static Badge](https://img.shields.io/badge/C%23-black) </h1>
+![Static Badge](https://img.shields.io/badge/C%23-black)
 
 
 
