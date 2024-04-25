@@ -18,7 +18,7 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-![Static Badge](https://img.shields.io/badge/C%23-black)
+# ![Static Badge](https://img.shields.io/badge/C%23-black)
 
 
 
