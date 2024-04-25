@@ -24,6 +24,10 @@
 
 <img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,idea,androidstudio,visualstudio" />
 
+#  ❗ 𝘽𝙚𝙨𝙩 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 ❗
+
+
+
 
 
 
