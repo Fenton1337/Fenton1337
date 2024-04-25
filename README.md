@@ -26,7 +26,7 @@
 
 #  🖥️ 𝙎𝙤𝙘𝙞𝙖𝙡 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 
 
-<img a href="https://htmlacademy.ru" src="https://skillicons.dev/icons?i=gmail"/></a>
+<href="https://prettyfont.net"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 
 
