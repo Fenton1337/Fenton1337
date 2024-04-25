@@ -18,7 +18,7 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-![C#](https://img.shields.io/badge/:badgeContent)
+![C#](https://img.shields.io/badge/C#:badgeContent)
 
 
 
