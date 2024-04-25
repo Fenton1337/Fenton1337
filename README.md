@@ -18,7 +18,8 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-<button class="grid-item__preview copy-button copy-svg" title="C# SVG"><img class="icon-preview ld" src="/icons/csharp.svg"></button>
+![C#](https://img.shields.io/badge/:badgeContent)
+
 
 
 
