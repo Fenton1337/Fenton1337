@@ -18,11 +18,11 @@
  
 #  💻 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-<img src="https://skillicons.dev/icons?i=java,react,cs,html,css,github" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,github" />
 
 #  🛠️ 𝙏𝙤𝙤𝙡𝙨  
 
-<img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,idea,visualstudio" />
+<img src="https://skillicons.dev/icons?i=dotnet,vscode,linux,pycharm,visualstudio" />
 
 #  ❗ 𝘽𝙚𝙨𝙩 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 ❗
 
